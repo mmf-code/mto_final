@@ -145,10 +145,3 @@ Meteorological Engineering & Control Systems (Double Major)
 Istanbul Technical University  
 - GitHub: [mmf-code](https://github.com/mmf-code)  
 - LinkedIn: [linkedin.com/in/atakanyaman](https://www.linkedin.com/in/atakanyaman)
-
----
-
-## 📄 License
-
-MIT 
-````
